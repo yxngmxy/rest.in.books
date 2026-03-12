@@ -12,6 +12,15 @@ Para el desarrollo de este proyecto, hemos organizado nuestro equipo de la sigui
 ## Descripcion del Proyecto
 Rest in Books es una plataforma web diseñada para la compra y venta de libros. El objetivo principal es ofrecer una interfaz intuitiva donde los usuarios puedan explorar un catalogo, ver detalles de cada obra y gestionar su carrito de compras de manera eficiente, ademas de darle una segunda vida a los libros usados.
 
+## Roles del equipo (5 integrantes)
+Para el desarollo de este proyecto, hemos organizado el grupo de la siguiente manera:
+
+* 1-) Lider del proyecto:
+* 2-) Diseñador UI/UX:
+* 3-) Desarollador Backend: Juan Jose Castaño
+* 4-) QA Tester:
+* 5-) Documentador y Soporte: 
+
 ## El Problema
 Actualmente, muchos lectores independientes tienen dificultades para encontrar libros de segunda mano en buen estado o para vender sus ejemplares leidos a un precio justo sin recurrir a redes sociales desorganizadas. Rest in Books soluciona esto proporcionando un espacio centralizado, seguro y facil de navegar para la comunidad lectora.
 
