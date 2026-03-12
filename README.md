@@ -12,6 +12,12 @@ Para el desarrollo de este proyecto, hemos organizado nuestro equipo de la sigui
 ## Descripcion del Proyecto
 Rest in Books es una plataforma web diseñada para la compra y venta de libros. El objetivo principal es ofrecer una interfaz intuitiva donde los usuarios puedan explorar un catalogo, ver detalles de cada obra y gestionar su carrito de compras de manera eficiente, ademas de darle una segunda vida a los libros usados.
 
+## Tecnologias y Herramientas Utilizadas
+* *Lenguajes:* HTML5, CSS3, JavaScript (ES6+).
+* *Herramientas de diseño:* Figma.
+* *Entornos de desarrollo:* VS Code / Eclipse.
+* *Control de versiones:* Git y GitHub.
+
 ## El Problema
 Actualmente, muchos lectores independientes tienen dificultades para encontrar libros de segunda mano en buen estado o para vender sus ejemplares leidos a un precio justo sin recurrir a redes sociales desorganizadas. Rest in Books soluciona esto proporcionando un espacio centralizado, seguro y facil de navegar para la comunidad lectora.
 
