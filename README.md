@@ -22,8 +22,13 @@ Rest in Books es una plataforma web diseñada para la compra y venta de libros. 
 Actualmente, muchos lectores independientes tienen dificultades para encontrar libros de segunda mano en buen estado o para vender sus ejemplares leidos a un precio justo sin recurrir a redes sociales desorganizadas. Rest in Books soluciona esto proporcionando un espacio centralizado, seguro y facil de navegar para la comunidad lectora.
 
 ## Objetivos
-* **Principal:** Crear un portal web funcional para la gestion de compra-venta de libros.
-* **Especificos:**
-    * Desarrollar un buscador optimizado por autor y genero.
-    * Implementar un carrito de compras dinamico.
-    * Garantizar un diseño responsive que funcione en cualquier dispositivo.
+### Objetivo General
+Facilitar la compra y venta de libros nuevos y usados mediante una plataforma web sencilla, segura y accesible para todos los lectores.
+
+### Objetivos Específicos
+- Implementar un buscador eficiente que permita encontrar libros por título, autor o género.
+- Desarrollar un carrito de compras dinámico para gestionar los libros antes de realizar la compra.
+- Permitir a los usuarios publicar y vender libros usados dentro de la plataforma.
+- Mostrar información detallada de cada libro (autor, precio, estado, descripción e imagen).
+- Garantizar un diseño responsive que funcione correctamente en computador, tablet y celular.
+- Crear un sistema de registro e inicio de sesión para gestionar cuentas de usuario.
