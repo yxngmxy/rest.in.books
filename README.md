@@ -12,3 +12,6 @@ Actualmente, muchos lectores independientes tienen dificultades para encontrar l
     * Desarrollar un buscador optimizado por autor y genero.
     * Implementar un carrito de compras dinamico.
     * Garantizar un diseño responsive que funcione en cualquier dispositivo.
+
+
+  se ha incluido una version temprana de la pagina en el repositorio, hecha con la herramienta de figma*****
