@@ -6,7 +6,7 @@ Para el desarrollo de este proyecto, hemos organizado nuestro equipo de la sigui
 1. **Lider de Proyecto / Scrum Master:** David Fajardo Briceño
 2. **Diseñador UI/UX (Frontend):** 
 3. **Desarrollador Backend:** Juan Castaño Bermudez
-4. **QA / Tester:**
+4. **QA / Tester:**Laura Sthefanny Doncel Parra 
 5. **Documentador y Soporte:** Charlotte García Galindo
 
 ## Descripcion del Proyecto
@@ -32,3 +32,6 @@ Facilitar la compra y venta de libros nuevos y usados mediante una plataforma we
 - Mostrar información detallada de cada libro (autor, precio, estado, descripción e imagen).
 - Garantizar un diseño responsive que funcione correctamente en computador, tablet y celular.
 - Crear un sistema de registro e inicio de sesión para gestionar cuentas de usuario.
+
+- Visión de Comunidad
+Más que una tienda, Rest in Books busca fomentar una economía circular literaria. Nuestra visión es construir un espacio donde la cultura sea accesible y sostenible, permitiendo que las historias pasen de mano en mano. Queremos conectar a lectores apasionados, reducir el impacto ambiental del papel y asegurar que ningún libro termine en el olvido mientras alguien más esté buscando su próxima gran lectura.
