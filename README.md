@@ -14,4 +14,4 @@ Actualmente, muchos lectores independientes tienen dificultades para encontrar l
     * Garantizar un diseño responsive que funcione en cualquier dispositivo.
 
 
-  se ha incluido una version temprana de la pagina en el repositorio, hecha con la herramienta de figma*****
+  se ha incluido una version temprana de la pagina en el repositorio, hecha con la herramienta de figma****
